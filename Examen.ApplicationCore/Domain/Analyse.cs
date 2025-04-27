@@ -28,5 +28,7 @@ namespace Examen.ApplicationCore.Domain
         [StringLength(100)]
         public string TypeAnalyse { get; set; }
         public double PrixAnalyse { get; set; }
+        public Bilan Bilan { get; set; }
+
     }
 }

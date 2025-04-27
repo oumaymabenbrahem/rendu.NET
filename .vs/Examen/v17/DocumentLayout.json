@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\examen\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050C66E-E4D5-429C-914B-2029A275D124}|Examen.Infrastructure\\Examen.Infrastructure.csproj|solutionrelative:examen.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\services\\bilanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\services\\bilanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\interfaces\\ibilanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\interfaces\\ibilanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\bilan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36C1EB8-4BA4-4B5A-A027-79D7E168B7B8}|Examen.UI.Console\\Examen.UI.Console.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36C1EB8-4BA4-4B5A-A027-79D7E168B7B8}|Examen.UI.Console\\Examen.UI.Console.csproj|solutionrelative:examen.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|solutionrelative:examen.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +47,8 @@
       "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\bilanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A36C1EB8-4BA4-4B5A-A027-79D7E168B7B8}|Examen.UI.Console\\Examen.UI.Console.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A36C1EB8-4BA4-4B5A-A027-79D7E168B7B8}|Examen.UI.Console\\Examen.UI.Console.csproj|solutionrelative:examen.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\domain\\infirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\infirmier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\analyse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDDAD9D8-F5A9-4EF2-9FC9-568E2D709CEF}|Examen.ApplicationCore\\Examen.ApplicationCore.csproj|solutionrelative:examen.applicationcore\\domain\\specialite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CA5F66D-788A-4E5D-BF17-917FCF0B9B80}|Examen.UI.Web\\Examen.UI.Web.csproj|c:\\users\\lenovo\\desktop\\examen\\examen.ui.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,24 +62,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BilanConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
-              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
-              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ExamContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.Infrastructure\\ExamContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\ExamContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.Infrastructure\\ExamContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\ExamContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T12:29:15.144Z",
+              "WhenOpened": "2025-04-27T18:13:55.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BilanService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Services\\BilanService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Services\\BilanService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Services\\BilanService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Services\\BilanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:10:21.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IBilanService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Interfaces\\IBilanService.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Interfaces\\IBilanService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Interfaces\\IBilanService.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Interfaces\\IBilanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:09:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.UI.Console\\Program.cs",
               "RelativeDocumentMoniker": "Examen.UI.Console\\Program.cs",
@@ -76,19 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Analyse.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Analyse.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Analyse.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Analyse.cs",
               "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Analyse.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T23:52:28.409Z"
+              "WhenOpened": "2025-04-08T23:52:28.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Infirmier.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Infirmier.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Infirmier.cs",
@@ -100,46 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bilan.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Bilan.cs",
-              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Bilan.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Bilan.cs",
-              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Bilan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T23:46:50.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Patient.cs",
-              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Patient.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Patient.cs",
-              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T23:35:53.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.Infrastructure\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Examen.Infrastructure\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.Infrastructure\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Examen.Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T00:14:36.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Specialite.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Specialite.cs",
               "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Specialite.cs",
@@ -147,11 +151,73 @@
               "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Specialite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T23:51:18.333Z"
+              "WhenOpened": "2025-04-08T23:51:18.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BilanConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\BilanConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:29:15.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bilan.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Bilan.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:46:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.UI.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Examen.UI.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.UI.Web\\Program.cs",
+              "RelativeToolTip": "Examen.UI.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:38:10.139Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "Examen.ApplicationCore\\Domain\\Patient.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.ApplicationCore\\Domain\\Patient.cs",
+              "RelativeToolTip": "Examen.ApplicationCore\\Domain\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T23:35:53.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Examen.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Examen.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:14:36.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\examen\\Examen.UI.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Examen.UI.Web\\Controllers\\HomeController.cs",
